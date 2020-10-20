@@ -1,97 +1,97 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=355&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 HEVC" tvg-logo="" group-title="TDT",LA 1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26087&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 FULL HD" tvg-logo="" group-title="TDT",LA 1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3797&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 HD
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26150&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="TDT",LA 2 HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=421&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 2 FULL HD" tvg-logo="" group-title="TDT",LA 2 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="TDT",LA 2 HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3846&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="TDT",ANTENA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="TDT",LA 2 HD
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26151&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="TDT",Antena 3
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=348&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FULL HD" tvg-logo="" group-title="TDT",ANTENA 3 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="TDT",Antena 3
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3790&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="TDT",CUATRO HD
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26152&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro" tvg-logo="" group-title="TDT",Cuatro
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=351&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO FULL HD" tvg-logo="" group-title="TDT",CUATRO FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro" tvg-logo="" group-title="TDT",Cuatro
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3793&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="TDT",TELECINCO HD
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26153&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="TDT",Telecinco
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=374&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FULL HD" tvg-logo="" group-title="TDT",TELECINCO FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="TDT",Telecinco
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3814&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="TDT",LA SEXTA HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26154&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="La Sexta" tvg-logo="" group-title="TDT",La Sexta
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=356&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FULL HD" tvg-logo="" group-title="TDT",LA SEXTA FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="La Sexta" tvg-logo="" group-title="TDT",La Sexta
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3798&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26155&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="TDT",24 HORAS
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=380&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 4K" tvg-logo="" group-title="TDT",LA 1 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26150&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 2 4K" tvg-logo="" group-title="TDT",LA 2 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26151&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 4K" tvg-logo="" group-title="TDT",ANTENA 3 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26152&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO 4K" tvg-logo="" group-title="TDT",CUATRO 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26153&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO 4K" tvg-logo="" group-title="TDT",TELECINCO 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26154&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA 4K" tvg-logo="" group-title="TDT",LA SEXTA 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26155&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="TDT",TRECE
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25853&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="TDT",PTV MALAGA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25852&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="" group-title="TDT",mega
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25854&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CanalSurHD" tvg-logo="" group-title="TDT",CanalSurHD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur" tvg-logo="" group-title="TDT",Canal Sur
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25851&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CanalSur2" tvg-logo="" group-title="TDT",CanalSur2
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur 2" tvg-logo="" group-title="TDT",Canal Sur 2
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25850&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TORREVISION" tvg-logo="" group-title="TDT",CANAL TORREVISION
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25849&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="BOM" tvg-logo="" group-title="TDT",BOM
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25848&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="AndaluciaTV" tvg-logo="" group-title="TDT",AndaluciaTV
+#EXTINF:-1 tvg-id="" tvg-name="Andalucia TV" tvg-logo="" group-title="TDT",Andalucia TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25847&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="7TV ANDALUCIA" tvg-logo="" group-title="TDT",7TV ANDALUCIA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25846&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV INT" tvg-logo="" group-title="TDT",ARAGON TV INT
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=381&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV FULL HD" tvg-logo="" group-title="TDT",ARAGON TV FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="" group-title="TDT",ARAGON TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3820&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BE MAD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=385&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BE MAD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=1607&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD FULL HD" tvg-logo="" group-title="TDT",BE MAD FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BE MAD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3824&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="TDT",FDF
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=415&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="FDF FULL HD" tvg-logo="" group-title="TDT",FDF FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="TDT",FDF
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3841&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Energy" tvg-logo="" group-title="TDT",Energy
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=413&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Energy FULL HD" tvg-logo="" group-title="TDT",Energy FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Energy" tvg-logo="" group-title="TDT",Energy
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3840&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="TDT",DIVINITY
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=412&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Divinity FULL HD" tvg-logo="" group-title="TDT",Divinity FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Divinity" tvg-logo="" group-title="TDT",Divinity
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3839&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Clan TVE FULL HD" tvg-logo="" group-title="TDT",Clan TVE FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Clan TVE" tvg-logo="" group-title="TDT",Clan TVE
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3832&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="TDT",Neox
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=450&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Neox FULL HD" tvg-logo="" group-title="TDT",Neox FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="TDT",Neox
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3851&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="TDT",NOVA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=453&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NOVA FULL HD" tvg-logo="" group-title="TDT",NOVA FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="TDT",NOVA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3854&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="TDT",IBERALIA TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=420&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FULL HD" tvg-logo="" group-title="TDT",IBERALIA TV FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="TDT",IBERALIA TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3845&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="TDT",TEN
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25869&t=live&f=ts
@@ -105,9 +105,9 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25866&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL MÃLAGA" tvg-logo="" group-title="TDT",CANAL MÃLAGA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25858&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" tvg-logo="" group-title="TDT",BeMad tv HD
+#EXTINF:-1 tvg-id="" tvg-name="BeMad tv" tvg-logo="" group-title="TDT",BeMad tv
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25870&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="atreseries HD" tvg-logo="" group-title="TDT",atreseries HD
+#EXTINF:-1 tvg-id="" tvg-name="atreseries" tvg-logo="" group-title="TDT",atreseries
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25865&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="101 TV" tvg-logo="" group-title="TDT",101 TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=25861&t=live&f=ts
@@ -115,84 +115,84 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=464&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="" group-title="TDT",DEPORTES
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=459&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="#0 4K" tvg-logo="" group-title="PREMIUM",#0 4K
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="" group-title="PREMIUM",#0
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26172&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" VIAJAR 4K" tvg-logo="" group-title="PREMIUM", VIAJAR 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26275&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="PREMIUM",TOROS 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26276&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS 4K" tvg-logo="" group-title="PREMIUM", #VAMOS 4K
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="" group-title="PREMIUM",#0
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=378&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="" group-title="PREMIUM",#0
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3818&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="" group-title="PREMIUM",#VAMOS
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26267&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="PREMIUM",Comedy Central
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=405&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="PREMIUM",Comedy Central
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3833&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="PREMIUM",COSMO
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=406&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="PREMIUM",COSMO
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3834&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="" group-title="PREMIUM",VIAJAR
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26275&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="" group-title="PREMIUM",VIAJAR
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=377&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Viajar" tvg-logo="" group-title="PREMIUM",Viajar
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3817&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="PREMIUM",Fox News
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=417&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="PREMIUM",BLAZE
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=395&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="PREMIUM",BLAZE
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3825&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="" group-title="PREMIUM",Odisea
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=399&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="" group-title="PREMIUM",Odisea
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3829&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Decasa" tvg-logo="" group-title="PREMIUM",Decasa
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=398&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Decasa" tvg-logo="" group-title="PREMIUM",Decasa
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3828&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="" group-title="PREMIUM",Canal Cocina
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=397&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="" group-title="PREMIUM",Canal Cocina
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3827&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="PREMIUM",Historia
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=419&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="PREMIUM",Historia
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3844&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="PREMIUM",National Geographic
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=370&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="PREMIUM",National Geographic
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3810&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="PREMIUM",Nat Geo Wild
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=371&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="PREMIUM",Nat Geo Wild
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3811&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca" tvg-logo="" group-title="PREMIUM",Caza y Pesca
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=402&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca" tvg-logo="" group-title="PREMIUM",Caza y Pesca
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3831&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="PREMIUM",DISCOVERY
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=408&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="PREMIUM",Discovery
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3836&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="PREMIUM",Crimen + Investigacion
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=407&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="PREMIUM",Crimen + Investigacion
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3835&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name=" Disney+ 4K" tvg-logo="" group-title="PREMIUM", Disney+ 4K
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26272&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="" group-title="PREMIUM",Disney+
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26214&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ FULL HD" tvg-logo="" group-title="PREMIUM",Disney+ FULL HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26215&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="PREMIUM",#0 HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=378&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="#0 FULL HD" tvg-logo="" group-title="PREMIUM",#0 FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3818&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRAL HD" tvg-logo="" group-title="PREMIUM",COMEDYCENTRAL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=405&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FULL HD" tvg-logo="" group-title="PREMIUM",Comedy Central FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3833&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="PREMIUM",COSMO HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=406&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="COSMO FULL HD" tvg-logo="" group-title="PREMIUM",COSMO FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3834&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="PREMIUM",TOROS HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=376&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="PREMIUM",TOROS FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3816&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="PREMIUM",NAT GEO HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=370&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FULL HD" tvg-logo="" group-title="PREMIUM",NAT GEO FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3810&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" group-title="PREMIUM",NG WILD HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=371&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NG WILD FULL HD" tvg-logo="" group-title="PREMIUM",NG WILD FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3811&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="PREMIUM",CAZAyPESCA HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=402&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA FULL HD" tvg-logo="" group-title="PREMIUM",CAZAyPESCA FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3831&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="PREMIUM",DISCOVERY
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=408&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery FULL HD" tvg-logo="" group-title="PREMIUM",Discovery FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3836&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen Invest" tvg-logo="" group-title="PREMIUM",Crimen Invest
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=407&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVES FULL HD" tvg-logo="" group-title="PREMIUM",CRIMEN INVES FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3835&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="PREMIUM",VIAJAR HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=377&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Viajar FULL HD" tvg-logo="" group-title="PREMIUM",Viajar FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3817&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney CH FULL HD" tvg-logo="" group-title="PREMIUM",Disney CH FULL HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3837&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="PREMIUM",FOX NEWS
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=417&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="PREMIUM",BLAZE
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=395&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE FULL HD" tvg-logo="" group-title="PREMIUM",BLAZE FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3825&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="PREMIUM",CANAL ODISEA
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=399&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal odisea FULL HD" tvg-logo="" group-title="PREMIUM",Canal odisea FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3829&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="PREMIUM",CANAL DECASA
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=398&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Decasa FULL HD" tvg-logo="" group-title="PREMIUM",Canal Decasa FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3828&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="PREMIUM",CANAL COCINA
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=397&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal COCINA FULL HD" tvg-logo="" group-title="PREMIUM",Canal COCINA FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3827&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="PREMIUM",Historia
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=419&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Historia FULL HD" tvg-logo="" group-title="PREMIUM",Historia FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3844&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="" group-title="PREMIUM",TOROS
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26276&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="" group-title="PREMIUM",TOROS
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=376&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="" group-title="PREMIUM",TOROS
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3816&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="" group-title="PREMIUM",CULTURA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=465&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="VIDA RTV" tvg-logo="" group-title="PREMIUM",VIDA RTV
@@ -217,105 +217,105 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=404&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="" group-title="PREMIUM",MTV ESPANA
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=447&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA 4K" tvg-logo="" group-title="CINE",M. DRAMA 4K
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="CINE",Movistar Drama
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26159&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA 4K" tvg-logo="" group-title="CINE",M.COMEDIA 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26158&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. ACCIÓN 4K" tvg-logo="" group-title="CINE",M. ACCIÓN 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26157&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS 4K" tvg-logo="" group-title="CINE",M.ESTRENOS 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26156&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="CINE",M.ESTRENOS HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=364&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS FULL HD" tvg-logo="" group-title="CINE",M.ESTRENOS FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3805&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="CINE",M. ACCION HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=358&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. ACCIN FULL HD" tvg-logo="" group-title="CINE",M. ACCIN FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3799&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="" group-title="CINE",M.COMEDIA HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=363&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA FULL HD" tvg-logo="" group-title="CINE",M.COMEDIA FULL HD
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3804&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="" group-title="CINE",M. DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="CINE",Movistar Drama
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=360&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA FULL HD" tvg-logo="" group-title="CINE",M. DRAMA FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="CINE",Movistar Drama
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3801&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. Cine Espaol" tvg-logo="" group-title="CINE",M. Cine Espaol
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="CINE",Movistar Comedia
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26158&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="CINE",Movistar Comedia
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=363&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="CINE",Movistar Comedia
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3804&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="CINE",Movistar Accion
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26157&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="CINE",Movistar Accion
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=358&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="CINE",Movistar Accion
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3799&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="CINE",Movistar Estrenos
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26156&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="CINE",Movistar Estrenos
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=364&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="CINE",Movistar Estrenos
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3805&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Cine Español" tvg-logo="" group-title="CINE",Movistar Cine Español
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=426&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. Cine Espaol FULL HD" tvg-logo="" group-title="CINE",M. Cine Espaol FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Cine Español" tvg-logo="" group-title="CINE",Movistar Cine Español
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3847&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.CineDoc&Roll HD" tvg-logo="" group-title="CINE",M.CineDoc&Roll HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar CineDoc&Roll" tvg-logo="" group-title="CINE",Movistar CineDoc&Rol
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=437&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.CineDoc&Roll FULL HD" tvg-logo="" group-title="CINE",M.CineDoc&Roll FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar CineDoc&Roll" tvg-logo="" group-title="CINE",Movistar CineDoc&Roll
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3850&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CINE",HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="" group-title="CINE",Canal Hollywood
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=354&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FULL HD" tvg-logo="" group-title="CINE",HOLLYWOOD FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="" group-title="CINE",Canal Hollywood
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3796&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="CINE",Paramount Channel
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=454&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount FULL HD" tvg-logo="" group-title="CINE",Paramount FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="CINE",Paramount Channel
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3855&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="CINE",TCM HD
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=373&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM FULL HD" tvg-logo="" group-title="CINE",TCM FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3813&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="CINE",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=375&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="" group-title="CINE",TNT FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3815&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="CINE",SUNDANCE TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=456&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FULL HD" tvg-logo="" group-title="CINE",Sundance TV FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="" group-title="CINE",Sundance TV
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3856&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="CINE",AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=347&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC FULL HD" tvg-logo="" group-title="CINE",AMC FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3789&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CINE",CALLE 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="CINE",CALLE 13
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=350&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FULL HD" tvg-logo="" group-title="CINE",CALLE 13 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="CINE",CALLE 13
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3792&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES 4K" tvg-logo="" group-title="SERIES",M. SERIES 4K
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="SERIES",Movistar Series
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26160&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="SERIES",M. SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="SERIES",Movistar Series
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=362&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES FULL HD" tvg-logo="" group-title="SERIES",M. SERIES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="SERIES",Movistar Series
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3803&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania HD" tvg-logo="" group-title="SERIES",M.Seriesmania HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania" tvg-logo="" group-title="SERIES",Movistar Seriesmania
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=368&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania FULL HD" tvg-logo="" group-title="SERIES",M.Seriesmania FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania" tvg-logo="" group-title="SERIES",Movistar Seriesmania
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3809&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="SERIES",FOX HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="SERIES",Fox
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=353&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX FULL HD" tvg-logo="" group-title="SERIES",FOX FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="SERIES",Fox
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3795&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="SERIES",FOX LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="SERIES",Fox Life
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=416&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life FULL HD" tvg-logo="" group-title="SERIES",Fox Life FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="SERIES",Fox Life
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3842&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="SERIES",AXN HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=349&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="" group-title="SERIES",AXN FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="SERIES",AXN HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3791&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="SERIES",AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="" group-title="SERIES",AXN White
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=382&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FULL HD" tvg-logo="" group-title="SERIES",AXN WHITE FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="" group-title="SERIES",AXN White
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3821&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="SERIES",SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="SERIES",Syfy
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=372&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY FULL HD" tvg-logo="" group-title="SERIES",SYFY FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="SERIES",Syfy
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3812&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT1 4K" tvg-logo="" group-title="DEPORTES", EUROSPORT1 4K
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="DEPORTES",Eurosport 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26281&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" M.FORMULA1 4K " tvg-logo="" group-title="DEPORTES", M.FORMULA1 4K 
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Formula 1" tvg-logo="" group-title="DEPORTES",Movistar Formula 1 
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26271&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="" group-title="DEPORTES",#VAMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos" tvg-logo="" group-title="DEPORTES",#Vamos
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=379&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="" group-title="DEPORTES",#VAMOS FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos" tvg-logo="" group-title="DEPORTES",#Vamos
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3819&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR1 " tvg-logo="" group-title="DEPORTES", #VAMOS BAR1 
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos" tvg-logo="" group-title="DEPORTES",#Vamos
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26268&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR 1 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES",#VAMOS BAR 1 (SOLO EVENTOS)
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=424&t=live&f=ts
@@ -351,15 +351,15 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26307&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DEPORTES",DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26308&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="DEPORTES",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="DEPORTES",Eurosport 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=352&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1 FULL HD" tvg-logo="" group-title="DEPORTES",EUROSPORT1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="DEPORTES",Eurosport 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3794&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="DEPORTES",Eurosport 2
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=414&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="" group-title="DEPORTES",M. DEPORTESHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="" group-title="DEPORTES",Movistar Deportes
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=359&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="" group-title="DEPORTES",M. DEPORTES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="" group-title="DEPORTES",Movistar Deportes
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3800&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES",M. DEPORTES1HD (SOLO EVENTOS)
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=427&t=live&f=ts
@@ -379,33 +379,29 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=449&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="DEPORTES",TELEDEPORTE
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=457&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FULL HD" tvg-logo="" group-title="DEPORTES",Teledeporte FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte" tvg-logo="" group-title="DEPORTES",Teledeporte
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3857&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Barca tv" tvg-logo="" group-title="DEPORTES",Barca tv
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=384&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Barca tv FULL HD" tvg-logo="" group-title="DEPORTES",Barca tv FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Barca tv" tvg-logo="" group-title="DEPORTES",Barca tv
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3823&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="R. Madrid" tvg-logo="" group-title="DEPORTES",R. Madrid
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=455&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP FULL HD" tvg-logo="" group-title="DEPORTES",M.MOTOGP FULL HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3807&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="" group-title="DEPORTES",M.FORMULA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Formula 1" tvg-logo="" group-title="DEPORTES",Movistar Formula 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=365&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1 FULL HD" tvg-logo="" group-title="DEPORTES",M.FORMULA1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Formula 1" tvg-logo="" group-title="DEPORTES",Movistar Formula 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3806&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="DEPORTES",M. GOLF HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="DEPORTES",Movistar Golf
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=361&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF FULL HD" tvg-logo="" group-title="DEPORTES",M. GOLF FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="DEPORTES",Movistar Golf
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3802&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" LALIGATV BAR 4K" tvg-logo="" group-title="FUTBOL", LALIGATV BAR 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26269&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR 4K" tvg-logo="" group-title="FUTBOL", #VAMOS BAR 4K
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26270&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26046&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26042&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="FUTBOL",LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26246&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26247&t=live&f=ts
@@ -413,49 +409,23 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26248&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=435&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="FUTBOL",Bein Laliga/ beIN Sport
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=386&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26141&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26142&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="FUTBOL",Movistar LaLiga
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3849&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="FUTBOL",LALIGATV BAR HD
+#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV Bar" tvg-logo="" group-title="FUTBOL",LaLigaTV Bar
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26269&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV Bar" tvg-logo="" group-title="FUTBOL",LaLigaTV Bar
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=357&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 1
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26047&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 2
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26048&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 1
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26043&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 2
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26045&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 3
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26044&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 1
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24929&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 2
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=388&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 3
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24927&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 4
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=390&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 5
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24926&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 6" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 6
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24925&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 7" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 7
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=393&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 8" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 8
-http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=394&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="FUTBOL",M.LCAMPEONES HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="FUTBOL",Movistar Liga de Campeones
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=445&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES FULL HD" tvg-logo="" group-title="FUTBOL",M.LCAMPEONES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="FUTBOL",Movistar Liga de Campeones
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26078&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.Lcampeones 4K" tvg-logo="" group-title="FUTBOL",M.Lcampeones 4K
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="FUTBOL",Movistar Liga de Campeones
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26140&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HEVC" tvg-logo="" group-title="FUTBOL",M.LCAMPEONES HEVC
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="FUTBOL",Movistar Liga de Campeones
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26067&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="FUTBOL",M.LCAMPEON 1 HD (SOLO EVENTOS)
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=438&t=live&f=ts
@@ -489,22 +459,50 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26085&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON8 FULL HD" tvg-logo="" group-title="FUTBOL",M.LCAMPEON8 FULL HD
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26086&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 1
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26047&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 2
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26048&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 1
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26043&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 2
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26045&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 3
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26044&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 1
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24929&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 2
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=388&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 3
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24927&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 4
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=390&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 5
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24926&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 6" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 6
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24925&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 7" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 7
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=393&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 8" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 8
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=394&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 9" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 9
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24924&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 10" tvg-logo="" group-title="FUTBOL",Movistar LaLiga 10
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24928&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR 1  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=423&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 2" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR 2
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24931&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 3" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR 3
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=24930&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 4  (SOLO EVENTOS)" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR 4  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 4" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR 4
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=422&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Gol" tvg-logo="" group-title="FUTBOL",Gol
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=418&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="GOL FULL HD" tvg-logo="" group-title="FUTBOL",GOL FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Gol" tvg-logo="" group-title="FUTBOL",Gol
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=3843&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga" tvg-logo="" group-title="FUTBOL",Bein Laliga
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=386&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA 1 (SOLO EVENTOS)" tvg-logo="" group-title="FUTBOL",BEINLALIGA 1 (SOLO EVENTOS)
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=425&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA1 (SOLO EVENTOS)" tvg-logo="" group-title="FUTBOL",BEINLALIGA1 (SOLO EVENTOS)
@@ -515,6 +513,8 @@ http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=391&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA6 (SOLO EVENTOS)" tvg-logo="" group-title="FUTBOL",BEINLALIGA6 (SOLO EVENTOS)
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=392&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="" group-title="FUTBOL",#VAMOS
+http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26270&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="FICCION",Peliculas de Ciencia ficcion HD 1
 http://demou3maOxMpRIK53zbU7v.speednet.live/live/cra4.php?z=997&u=TSTm9QTxBfD80&s=160471431770&id=26134&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 2 " tvg-logo="" group-title="FICCION",Peliculas de Ciencia ficcion HD 2 
